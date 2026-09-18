@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cut-video-online.github.io/sitemap.xml
